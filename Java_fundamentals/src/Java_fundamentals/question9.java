@@ -1,5 +1,5 @@
 package Java_fundamentals;
-import java.util.*;
+/import java.util.*;
 public class question9 {
 	
 	    public static void main(String[] args) {
